@@ -1,0 +1,7 @@
+C:\Users\shake\source\repos\BankEncapsulation\BankEncapsulation\bin\Debug\BankEncapsulation.exe.config
+C:\Users\shake\source\repos\BankEncapsulation\BankEncapsulation\bin\Debug\BankEncapsulation.exe
+C:\Users\shake\source\repos\BankEncapsulation\BankEncapsulation\bin\Debug\BankEncapsulation.pdb
+C:\Users\shake\source\repos\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.csproj.AssemblyReference.cache
+C:\Users\shake\source\repos\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\shake\source\repos\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.exe
+C:\Users\shake\source\repos\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.pdb
